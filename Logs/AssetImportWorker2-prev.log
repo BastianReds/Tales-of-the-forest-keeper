@@ -1,0 +1,263 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.16f1 (5fa502fca597) revision 6268162'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19042.1348; Version 2009; 64bit' Language: 'es' Physical Memory: 8042 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+B:\Archivos\Unity\2021.1.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker2
+-projectPath
+B:/Estudio/2021-3/Diseño de Videojuegos 2/Corte 3/TOTFK/Tales of the forest keeper
+-logFile
+Logs/AssetImportWorker2.log
+-srvPort
+61086
+Successfully changed project path to: B:/Estudio/2021-3/Diseño de Videojuegos 2/Corte 3/TOTFK/Tales of the forest keeper
+B:/Estudio/2021-3/Diseño de Videojuegos 2/Corte 3/TOTFK/Tales of the forest keeper
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 122.08 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.16f1 (5fa502fca597)
+[Subsystems] Discovering subsystems at path B:/Archivos/Unity/2021.1.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path B:/Estudio/2021-3/Diseño de Videojuegos 2/Corte 3/TOTFK/Tales of the forest keeper/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1050 (ID=0x1c91)
+    Vendor:   NVIDIA
+    VRAM:     2996 MB
+    Driver:   30.0.14.9709
+Initialize mono
+Mono path[0] = 'B:/Archivos/Unity/2021.1.16f1/Editor/Data/Managed'
+Mono path[1] = 'B:/Archivos/Unity/2021.1.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'B:/Archivos/Unity/2021.1.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56740
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: B:/Archivos/Unity/2021.1.16f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: B:/Archivos/Unity/2021.1.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.001535 seconds.
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 116.69 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.501 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1501ms)
+		BeginReloadAssembly (73ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (472ms)
+			LoadAssemblies (73ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (153ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (32ms)
+			SetupLoadedEditorAssemblies (245ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (117ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (93ms)
+				ProcessInitializeOnLoadMethodAttributes (27ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.005962 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image B:\Estudio\2021-3\Diseño de Videojuegos 2\Corte 3\TOTFK\Tales of the forest keeper\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image B:\Estudio\2021-3\Diseño de Videojuegos 2\Corte 3\TOTFK\Tales of the forest keeper\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 129.22 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  2.914 seconds
+Domain Reload Profiling:
+	ReloadAssembly (2915ms)
+		BeginReloadAssembly (162ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (20ms)
+		EndReloadAssembly (2699ms)
+			LoadAssemblies (1113ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (354ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (75ms)
+			SetupLoadedEditorAssemblies (1083ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (35ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (129ms)
+				BeforeProcessingInitializeOnLoad (91ms)
+				ProcessInitializeOnLoadAttributes (792ms)
+				ProcessInitializeOnLoadMethodAttributes (32ms)
+				AfterProcessingInitializeOnLoad (3ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.47 seconds
+Refreshing native plugins compatible for Editor in 1.35 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4152 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 175.6 MB.
+System memory in use after: 175.7 MB.
+
+Unloading 37 unused Assets to reduce memory usage. Loaded Objects now: 4620.
+Total: 4.748600 ms (FindLiveObjects: 0.357900 ms CreateObjectMapping: 0.164900 ms MarkObjects: 4.075800 ms  DeleteObjects: 0.147100 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/2DGamekit/Readme.asset
+  artifactKey: Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Readme.asset using Guid(83c2ed844a8c74b779a4c823d16594b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd6c7e89498f213c04f7580f79f64ffae') in 0.373144 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 300.303528 seconds.
+  path: Assets/2DGamekit/Scenes/ZoneBoss.unity
+  artifactKey: Guid(afa2ff05acb74434498ee5bb92abf8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scenes/ZoneBoss.unity using Guid(afa2ff05acb74434498ee5bb92abf8b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14c6046bf03c1191f3415ea19c9d1fda') in 0.107443 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 8018.534169 seconds.
+  path: Assets/2DGamekit/Art/Animations/Timeline/Zone2CutsceneTimeline.playable
+  artifactKey: Guid(1531c2544f284334a93cf920feeffef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Timeline/Zone2CutsceneTimeline.playable using Guid(1531c2544f284334a93cf920feeffef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f54f1c6d4b5c2b21779ad4eca4a9fab9') in 0.145434 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000339 seconds.
+  path: Assets/2DGamekit/Art/Animations/Timeline/Zone4Cutscene1Timeline.playable
+  artifactKey: Guid(e0370d49e45befd49bd8caf1af498575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Timeline/Zone4Cutscene1Timeline.playable using Guid(e0370d49e45befd49bd8caf1af498575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf00dffafd3ee21b54745da1e30d8637') in 0.024268 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000360 seconds.
+  path: Assets/2DGamekit/Art/Animations/Timeline/Zone4Cutscene2Timeline.playable
+  artifactKey: Guid(7d624d33590bb7c4988da22985cb5263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Timeline/Zone4Cutscene2Timeline.playable using Guid(7d624d33590bb7c4988da22985cb5263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed9918f70cda2e42e0e43bc2e3bbe30') in 0.029648 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000363 seconds.
+  path: Assets/2DGamekit/Art/Animations/Timeline/Zone5CutsceneTineline.playable
+  artifactKey: Guid(bb48787907c249b48a5df0383be03462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Timeline/Zone5CutsceneTineline.playable using Guid(bb48787907c249b48a5df0383be03462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '394f44fe8e40c7d835b831b8c4b43445') in 0.301875 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.073381 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image B:\Estudio\2021-3\Diseño de Videojuegos 2\Corte 3\TOTFK\Tales of the forest keeper\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image B:\Estudio\2021-3\Diseño de Videojuegos 2\Corte 3\TOTFK\Tales of the forest keeper\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  3.670 seconds
+Domain Reload Profiling:
+	ReloadAssembly (3671ms)
+		BeginReloadAssembly (852ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (8ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (45ms)
+		EndReloadAssembly (2766ms)
+			LoadAssemblies (1910ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (346ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (55ms)
+			SetupLoadedEditorAssemblies (1084ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (72ms)
+				ProcessInitializeOnLoadAttributes (994ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (2ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 1.02 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 4099 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 171.0 MB.
+System memory in use after: 171.1 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 4624.
+Total: 3.823900 ms (FindLiveObjects: 0.308600 ms CreateObjectMapping: 0.163700 ms MarkObjects: 3.240500 ms  DeleteObjects: 0.110400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 198.954415 seconds.
+  path: Assets/2DGamekit/Art/Animations/AnimationClips/Enemies/Gunner/GunnerCutscene/GunnerCutsceneDoor.anim
+  artifactKey: Guid(c39ac717924363d44be9b1c0d30ad230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/AnimationClips/Enemies/Gunner/GunnerCutscene/GunnerCutsceneDoor.anim using Guid(c39ac717924363d44be9b1c0d30ad230) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bb95a1669ac4466428a5df3360dcc0e') in 0.039451 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 66.995883 seconds.
+  path: Assets/2DGamekit/Art/Animations/Timeline/Zone2CutsceneTimeline.playable
+  artifactKey: Guid(1531c2544f284334a93cf920feeffef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Timeline/Zone2CutsceneTimeline.playable using Guid(1531c2544f284334a93cf920feeffef3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9b4d991dff3340600b297ed3d448c363') in 0.016103 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.015081 seconds.
+  path: Assets/2DGamekit/Art/Animations/Timeline/Zone4Cutscene1Timeline.playable
+  artifactKey: Guid(e0370d49e45befd49bd8caf1af498575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Timeline/Zone4Cutscene1Timeline.playable using Guid(e0370d49e45befd49bd8caf1af498575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a43d93fcbfd33b8349a8d98e8567530f') in 0.005264 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/2DGamekit/Art/Animations/Timeline/Zone4Cutscene2Timeline.playable
+  artifactKey: Guid(7d624d33590bb7c4988da22985cb5263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Timeline/Zone4Cutscene2Timeline.playable using Guid(7d624d33590bb7c4988da22985cb5263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f12745511fea269d4be1578177844e37') in 0.002902 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000353 seconds.
+  path: Assets/2DGamekit/Art/Animations/Timeline/Zone5CutsceneTineline.playable
+  artifactKey: Guid(bb48787907c249b48a5df0383be03462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Timeline/Zone5CutsceneTineline.playable using Guid(bb48787907c249b48a5df0383be03462) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b459385e237ccfef5c7a8bf594dbd316') in 0.103304 seconds 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
