@@ -15,11 +15,11 @@ B:/Estudio/2021-3/Diseño de Videojuegos 2/Corte 3/TOTFK/Tales of the forest kee
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-61086
+52127
 Successfully changed project path to: B:/Estudio/2021-3/Diseño de Videojuegos 2/Corte 3/TOTFK/Tales of the forest keeper
 B:/Estudio/2021-3/Diseño de Videojuegos 2/Corte 3/TOTFK/Tales of the forest keeper
 Using Asset Import Pipeline V2.
-Refreshing native plugins compatible for Editor in 772.80 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 25146.43 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2021.1.16f1 (5fa502fca597)
 [Subsystems] Discovering subsystems at path B:/Archivos/Unity/2021.1.16f1/Editor/Data/Resources/UnitySubsystems
@@ -31,9 +31,3 @@ Direct3D:
     Vendor:   NVIDIA
     VRAM:     2996 MB
     Driver:   30.0.14.9709
-Initialize mono
-Mono path[0] = 'B:/Archivos/Unity/2021.1.16f1/Editor/Data/Managed'
-Mono path[1] = 'B:/Archivos/Unity/2021.1.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
-Mono config path = 'B:/Archivos/Unity/2021.1.16f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56620
-Begin MonoManager ReloadAssembly

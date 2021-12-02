@@ -26867,7 +26867,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4a285a926a0cd654280fc5b842d63c0a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  websiteAddress: https://unity3d.com/learn/tutorials/s/2d-game-kit
+  websiteAddress: rials/s/2d-game-kit/learn/tutorials/s/2d-game-kit
 --- !u!1 &1673236900
 GameObject:
   m_ObjectHideFlags: 0
